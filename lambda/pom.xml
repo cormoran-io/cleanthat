@@ -99,7 +99,7 @@
 						<!-- https://stackoverflow.com/questions/51521953/how-to-use-propertiesmergingresourcetransformer-of-maven-shade-plugin-when-add -->
 						<groupId>org.springframework.boot</groupId>
 						<artifactId>spring-boot-maven-plugin</artifactId>
-						<version>2.5.3</version>
+						<version>2.5.4</version>
 					</dependency>
 				</dependencies>
 				<configuration>
