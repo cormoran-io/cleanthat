@@ -1,0 +1,13 @@
+{
+    "syntax_version": "1",
+	"java": {
+		"engine": "eclipse",
+        "config_url": "https://raw.githubusercontent.com/solven-eu/pepper/master/static/src/main/resources/eclipse/eclipse_java_code_formatter.xml",
+        "eol": "LF"
+	},
+	"meta":{
+  		"labels": ["cleanthat"],
+  		"mutate_pull_requests": true,
+  		"mutate_main_branch": true
+	}
+}
