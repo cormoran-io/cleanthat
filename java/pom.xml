@@ -50,7 +50,7 @@
 			<!-- https://github.com/INRIA/spoon -->
 			<groupId>fr.inria.gforge.spoon</groupId>
 			<artifactId>spoon-core</artifactId>
-			<version>9.0.0</version>
+			<version>9.1.0</version>
 		</dependency>
 		<dependency>
 			<!-- https://github.com/javaparser/javaparser -->
