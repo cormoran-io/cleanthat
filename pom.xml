@@ -76,7 +76,7 @@
 		<!-- https://github.com/revelc/impsort-maven-plugin/releases -->
 		<impsort-maven-plugin.version>1.6.2</impsort-maven-plugin.version>
 
-		<sentry-spring.version>5.0.1</sentry-spring.version>
+		<sentry-spring.version>5.1.2</sentry-spring.version>
 
 		<spring-cloud.version>2020.0.3</spring-cloud.version>
 
