@@ -49,7 +49,7 @@
 		<scm.url>https://github.com/solven-eu/cleanthat</scm.url>
 
 		<!-- https://github.com/solven-eu/pepper/releases -->
-		<pepper.version>4.5</pepper.version>
+		<pepper.version>4.6</pepper.version>
 		<error-prone.version>2.35.1</error-prone.version>
 		<!-- 2.36.0 is broken due to https://github.com/diffplug/spotless/issues/1583 -->
 		<!-- https://mvnrepository.com/artifact/com.diffplug.spotless/spotless-maven-plugin -->
