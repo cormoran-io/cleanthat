@@ -296,3 +296,4 @@ see maven/README.MD
 # Contributors
 
 - Thanks[Mark Chesney](https://github.com/mches) for reporting and fixing https://github.com/solven-eu/cleanthat/issues/842 and https://github.com/solven-eu/cleanthat/issues/843
+
