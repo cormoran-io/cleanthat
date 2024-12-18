@@ -12,7 +12,7 @@
 		<jacoco.branch.ratio>0.00</jacoco.branch.ratio>
 		<jacoco.instruction.ratio>0.05</jacoco.instruction.ratio>
 
-		<openrewrite.dependency.version>2.5.4</openrewrite.dependency.version>
+		<openrewrite.dependency.version>2.23.2</openrewrite.dependency.version>
 	</properties>
 
 	<dependencyManagement>
