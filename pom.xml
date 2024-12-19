@@ -62,7 +62,7 @@
 		<jacoco-maven-plugin.version>0.8.12</jacoco-maven-plugin.version>
 		<sentry-spring.version>7.17.0</sentry-spring.version>
 		<!-- Used for agnostic AWS-Lambda -->
-		<spring-cloud.version>2021.0.9</spring-cloud.version>
+		<spring-cloud.version>2024.0.0</spring-cloud.version>
 
 		<!-- quality properties -->
 		<jacoco.branch.ratio>0.00</jacoco.branch.ratio>
